@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="css/public.css"/>
+    <link rel="stylesheet" href="css/index.css"/>
+</head>
+<body>
+<div class="main">
+    <div class="mainTop">
+        <div class="mainTop_left">
+            <img src="img/byd.jpg" width="80" height="40" class="floatLeft" />
+            <p>比亚迪乘用车市场分析平台</p>
+        </div>
+        <!--日期筛选-->
+        <div class="floatRight pageDate">
+            <select class="oneSelect" disabled="disabled" style="color:#bbb">
+                <option data-index="-1">2016年</option>
+            </select>
+            <select class="twoSelect" disabled="disabled" style="color:#bbb">
+                <option data-index="-1">9月</option>
+            </select>
+        </div>
+    </div>
+    <div class="mainBottom">
+        <div style="width:12%;" class="floatLeft iframeLeft">
+            <div class="leftNav">
+                <ul class="nav">
+                    <li><a class="left00 default" target="right" href="paging/right.html">整体市场表现</a></li>
+                    <li><a target="right" href="paging/channel.html" class="left1">细分市场表现</a></li>
+                    <li><a target="right" href="paging/space.html">竞品分析表现</a></li>
+                    <li><a target="right" href="paging/interLine.html">BYD市场表现</a></li>
+                    <div id="lanPos"></div>
+                </ul>
+            </div>
+        </div>
+        <div style="width:88%;" class="floatLeft iframeRight">
+            <iframe id="right" name="right" src="paging/right.html" width="100%" height="100%" frameborder="false"></iframe>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+</body>
+</html>
