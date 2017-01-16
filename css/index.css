@@ -16,6 +16,7 @@
 }
 .mainTop_left > p{
     float: left;
+    margin-left:10px;
     width: 400px;
     line-height: 36px;
     font-size: 20px;
@@ -26,23 +27,11 @@
 .pageDate{
     margin:15px 30px 0 0;
 }
-
-/*头部右边*/
-/*.mainTop_right{
-    position: absolute;
-    top:0;
-    right:1%;
-    width: 12%;
-    height: 8%;
-    cursor: pointer;
+.selectText{
+    height: 30px;
+    color:#bbb;
+    border-radius: 4px;
 }
-.mainTop_text > h6{
-    height: 100%;
-    line-height: 3.2rem;
-    text-align: right;
-    color:#fff;
-    font-size: 0.9rem;
-}*/
 
 /*内容*/
 .mainBottom{
@@ -84,30 +73,6 @@
     color:#666;
     font-size: 16px;
 }
-/*.nav > li >a:before{
-    content:"";
-    padding:0 5px;
-    display: inline-block;
-    width:34px;
-    height: 24px;
-    vertical-align:middle;
-}
-.left0:before{
-    background: url("../img/left0.png") no-repeat 0 0;
-    background-size:34px 24px;
-}
-.left0:hover:before,.left00:before{
-    background: url("../img/left00.png") no-repeat 0 0;
-    background-size:34px 24px;
-}
-.left1:before{
-    background: url("../img/left1.png") no-repeat 0 0;
-    background-size:34px 24px;
-}
-.left1:hover:before,.left01:before{
-    background: url("../img/left01.png") no-repeat 0 0;
-    background-size:34px 24px;
-}*/
 .nav > li >a:hover{
     color:#FF5F3E;
 }
