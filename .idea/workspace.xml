@@ -21,11 +21,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="home.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/json/home.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39473686">
+              <caret line="6568" column="45" selection-start-line="6568" selection-start-column="45" selection-end-line="6568" selection-end-column="45" />
+              <folding>
+                <element signature="e#147#903#0" expanded="false" />
+                <element signature="e#920#2256#0" expanded="false" />
+                <element signature="e#2280#121127#0" expanded="false" />
+                <element signature="e#121151#240453#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.259259">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state vertical-scroll-proportion="-1.2592592">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -33,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17173524">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -73,7 +88,6 @@
         <option value="$PROJECT_DIR$/paging/tariffs.html" />
         <option value="$PROJECT_DIR$/paging/channel.html" />
         <option value="$PROJECT_DIR$/js/channel.js" />
-        <option value="$PROJECT_DIR$/json/home.json" />
         <option value="$PROJECT_DIR$/js/tariffs.js" />
         <option value="$PROJECT_DIR$/paging/space.html" />
         <option value="$PROJECT_DIR$/css/right.css" />
@@ -83,6 +97,7 @@
         <option value="$PROJECT_DIR$/js/right.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/json/home.json" />
       </list>
     </option>
   </component>
@@ -139,6 +154,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="BYD_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="川航demo1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BYD_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -604,29 +633,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/json/home.json">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31578946">
-          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.259259">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state vertical-scroll-proportion="-1.2592592">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#select#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
+    <entry file="file://$PROJECT_DIR$/json/home.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17173524">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding />
+        <state vertical-scroll-proportion="0.39473686">
+          <caret line="6568" column="45" selection-start-line="6568" selection-start-column="45" selection-end-line="6568" selection-end-column="45" />
+          <folding>
+            <element signature="e#147#903#0" expanded="false" />
+            <element signature="e#920#2256#0" expanded="false" />
+            <element signature="e#2280#121127#0" expanded="false" />
+            <element signature="e#121151#240453#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -6413,7 +6413,7 @@
         {
             "source":"乘用车车型结构分析",
             "target":"自主",
-            "value":"20000"
+            "value":"27000"
         },
         {
             "source":"自主",
@@ -6438,17 +6438,17 @@
         {
             "source":"自主",
             "target":"自主SUV",
-            "value":"4000"
+            "value":"10000"
         },
         {
             "source":"自主SUV",
             "target":"A0级(自主SUV)",
-            "value":"2000"
+            "value":"3000"
         },
         {
             "source":"自主SUV",
             "target":"A级(自主SUV)",
-            "value":"3000"
+            "value":"4000"
         },
         {
             "source":"自主SUV",
@@ -6458,12 +6458,12 @@
         {
             "source":"自主",
             "target":"自主MPV",
-            "value":"5000"
+            "value":"9000"
         },
         {
             "source":"自主MPV",
             "target":"A0级(自主MPV)",
-            "value":"2000"
+            "value":"3000"
         },
         {
             "source":"自主MPV",
@@ -6478,7 +6478,7 @@
         {
             "source":"乘用车车型结构分析",
             "target":"外资",
-            "value":"70000"
+            "value":"29000"
         },
         {
             "source":"外资",
@@ -6528,7 +6528,7 @@
         {
             "source":"外资MPV",
             "target":"A0级(外资MPV)",
-            "value":"2000"
+            "value":"4000"
         },
         {
             "source":"外资MPV",
@@ -6542,21 +6542,21 @@
         }
     ],
     "nodes":[
-        {"name":"乘用车车型结构分析","value":"30000"},
-        {"name":"自主","value":"20000"},
+        {"name":"乘用车车型结构分析","value":"56000"},
+        {"name":"自主","value":"27000"},
         {"name":"自主轿车","value":"8000"},
         {"name":"A0级(自主轿车)","value":"2000"},
         {"name":"A级(自主轿车)","value":"3000"},
         {"name":"B级(自主轿车)","value":"3000"},
-        {"name":"自主SUV","value":"4000"},
+        {"name":"自主SUV","value":"10000"},
         {"name":"A0级(自主SUV)","value":"3000"},
-        {"name":"A级(自主SUV)","value":"2000"},
+        {"name":"A级(自主SUV)","value":"4000"},
         {"name":"B级(自主SUV)","value":"3000"},
-        {"name":"自主MPV","value":"5000"},
+        {"name":"自主MPV","value":"9000"},
         {"name":"A0级(自主MPV)","value":"3000"},
-        {"name":"A级(自主MPV)","value":"2000"},
+        {"name":"A级(自主MPV)","value":"3000"},
         {"name":"B级(自主MPV)","value":"3000"},
-        {"name":"外资","value":"70000"},
+        {"name":"外资","value":"29000"},
         {"name":"外资轿车","value":"10000"},
         {"name":"A0级(外资轿车)","value":"1000"},
         {"name":"A级(外资轿车)","value":"4000"},
@@ -6566,7 +6566,7 @@
         {"name":"A级(外资SUV)","value":"2500"},
         {"name":"B级(外资SUV)","value":"2500"},
         {"name":"外资MPV","value":"12000"},
-        {"name":"A0级(外资MPV)","value":"2000"},
+        {"name":"A0级(外资MPV)","value":"4000"},
         {"name":"A级(外资MPV)","value":"3000"},
         {"name":"B级(外资MPV)","value":"5000"}
     ],
